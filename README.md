@@ -1,6 +1,6 @@
 # Hi there, I'm Alireza Pashmchi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2E63&width=435&lines=Software+Engineer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Software+Engineer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezapashmchi1381&show_icons=true&theme=radical)
