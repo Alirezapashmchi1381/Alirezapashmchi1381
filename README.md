@@ -29,10 +29,22 @@
 ### Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## ⚒️ My Toolbox
 
+### Development Environment
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+## 🖥️ Terminal Skills
+
+```bash
+██████  ██ ███    ██ ██    ██ ██ ███    ███ 
+██   ██ ██ ████   ██ ██    ██ ██ ████  ████ 
+██████  ██ ██ ██  ██ ██    ██ ██ ██ ████ ██ 
+██      ██ ██  ██ ██  ██  ██  ██ ██  ██  ██ 
+██      ██ ██   ████   ████   ██ ██      ██
+```
+**Terminal Fu:** Advanced shell scripting, system administration, and CLI tool mastery
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezapashmchi)
