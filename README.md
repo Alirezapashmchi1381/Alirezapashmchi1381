@@ -15,17 +15,16 @@
 - 🔭 I'm currently working on Filmers
 - 🌱 I'm currently learning Data Science
 - 👯 I'm looking to collaborate on Flightgear
-- 💬 Ask me about Python,c
-- 📫 How to reach me: [zaalire2@gmail.com]
-- 😄 Pronouns: [Rostam]
-- ⚡ Fun fact: [I am a Setar Player]
+- 💬 Ask me about Python,C
+- 📫 How to reach me: zaalire2@gmail.com
+- ⚡ Fun fact: I am a Setar Player
 
 ## 🛠️ Skills
 
 ### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
